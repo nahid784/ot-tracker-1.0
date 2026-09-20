@@ -1,2 +1,2 @@
 # ot-tracker
-This is version 0.1 for overtime tracker
+This is version 1.0 for overtime tracker
